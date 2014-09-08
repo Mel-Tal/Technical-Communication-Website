@@ -1,0 +1,70 @@
+h1
+{
+color:#DF0101;
+text-align:Left;
+font-size:50px;
+font-family:"century gothic";
+}
+table {
+align:"center";
+}
+p
+{
+font-family:"century gothic";
+font-size:20px;
+}
+body
+{
+background-image: url(human-background.jpg);
+font-family:"century gothic";
+}
+hNav
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+a:link,a:visited
+{
+display:block;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#DF0101;
+width:140px;
+text-align:center;
+padding:7px;
+text-decoration:none;
+text-transform:uppercase;
+font-size:18px;
+font-family:"century gothic";
+}
+a:hover,a:active
+{
+background-color:#8A0808;
+}
+
+
+.title
+{
+position:absolute;
+left:165px;
+top:0px;
+}
+
+.navBar
+{
+position:absolute;
+left:0px;
+width:600px;
+top:110px;
+}
+
+
+table
+{
+border-spacing:10px;
+}
+form{
+font-family:"century gothic";
+font-size:20px;
+}
